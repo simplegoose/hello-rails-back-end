@@ -41,7 +41,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>React</li>
+    <li><a href="https://github.com/hello-rails-front-end.git">Hello Rails Frontend</a></li>
   </ul>
 </details>
 
@@ -103,7 +103,7 @@ Install this project with:
 -
 
 ### Usage
-
+To test this project with a client, clone [Hello Rails Frontend](https://github.com/simplegoose/hello-rails-front-end.git)
 To run the project, execute the following command:
 
 Example command:
