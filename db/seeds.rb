@@ -7,3 +7,12 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+[
+  'Hello world!', 
+  'Welcome to my app!', 
+  'This is an api call from a rails API!',
+  'Hello! Refresh the page to see this greeting change!'
+].each do |greeting|
+  Greeting.find_or_create_by!(title: greeting)
+end
